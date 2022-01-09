@@ -236,5 +236,6 @@ const sentence = templeatName + "は" + templeatAge + "歳です";
 console.log(sentence);
 
 // テンプレート文字列を用いた方法
+console.log("テンプレート文字列を用いた方法");
 const sentence2 = `${templeatName}は${templeatAge}です！`;
 console.log(sentence2);
